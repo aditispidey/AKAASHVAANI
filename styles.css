@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #E6E6FA;
+  background-color: #fae0ec;
   display: flex;
   justify-content: center;
   padding: 30px;
 }
 
 .container {
-  background: #800000;
+  background: rgb(3, 134, 154);
   padding: 30px;
   border-radius: 10px;
   width: 300px;
@@ -23,7 +23,7 @@ input {
 
 button {
   padding: 10px;
-  background-color: #800080;
+  background-color: rgb(78, 34, 75);
   color: white;
   border: none;
   width: 100%;
